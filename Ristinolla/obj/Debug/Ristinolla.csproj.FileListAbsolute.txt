@@ -1,0 +1,10 @@
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojResolveAssemblyReference.cache
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.Cache
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\Jimi Holopainen\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
